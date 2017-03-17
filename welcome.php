@@ -135,15 +135,15 @@ ob_end_flush();
         showReviews();
     ?>
     <!-- <hr style="border-color: black"> -->
-    <footer class="text-center">
-        <p>Copyright &copy; Rotten Potatoes by Daniel Capacio</p>
-        <a target="_blank" href="https://www.facebook.com/" class="btn btn-social-icon btn-facebook"><span class="fa fa-facebook"></span></a>
-        <a target="_blank" href="https://twitter.com" class="btn btn-social-icon btn-twitter"><span class="fa fa-twitter"></span></a>
-        <a target="_blank" href="https://www.linkedin.com" class="btn btn-social-icon btn-linkedin"><span class="fa fa-linkedin"></span></a>
-        <a target="_blank" href="https://bitbucket.org" class="btn btn-social-icon btn-bitbucket"><span class="fa fa-bitbucket"></span></a>
-        <a target="_blank" href="https://github.com/" class="btn btn-social-icon btn-github"><span class="fa fa-github"></span></a>
-        <br>&nbsp;
-    </footer>
 </div>
+
+<footer class="text-center">
+    <p>Copyright &copy; Rotten Potatoes by Daniel Capacio</p>
+    <a target="_blank" href="https://www.facebook.com/" class="btn btn-social-icon btn-facebook"><span class="fa fa-facebook"></span></a>
+    <a target="_blank" href="https://twitter.com" class="btn btn-social-icon btn-twitter"><span class="fa fa-twitter"></span></a>
+    <a target="_blank" href="https://www.linkedin.com" class="btn btn-social-icon btn-linkedin"><span class="fa fa-linkedin"></span></a>
+    <a target="_blank" href="https://bitbucket.org" class="btn btn-social-icon btn-bitbucket"><span class="fa fa-bitbucket"></span></a>
+    <a target="_blank" href="https://github.com/" class="btn btn-social-icon btn-github"><span class="fa fa-github"></span></a>
+</footer><br>
 </body>
 </html>
